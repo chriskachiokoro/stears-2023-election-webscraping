@@ -12,7 +12,7 @@ Packages Used:
 - Seaborn
 
 ---
-[Nigeria 2023 Presidential Election Tableau Viz](https://public.tableau.com/views/ElectionAnalysisNigeria2023/NigeriaElectionDashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+[Link to view Nigeria 2023 Presidential Election Tableau Viz](https://public.tableau.com/views/ElectionAnalysisNigeria2023/NigeriaElectionDashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 ![Candidate Party Viz](https://user-images.githubusercontent.com/47758859/226441318-c80d24d9-063e-4374-a231-acc1ad8f3a46.png)
 ![State Viz](https://user-images.githubusercontent.com/47758859/226441327-32772fe7-5d9e-4f5e-9666-cb691f43067c.png)
