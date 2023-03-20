@@ -11,5 +11,11 @@ Packages Used:
 - Numpy
 - Seaborn
 
-LinkedIn: https://www.linkedin.com/in/chris-dataanalyst/
-Tableau Visualization: https://public.tableau.com/views/ElectionAnalysisNigeria2023/NigeriaElectionDashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+[LinkedIn Profile](https://www.linkedin.com/in/chris-dataanalyst/)
+[Nigeria 2023 Presidential Election Tableau Viz](https://public.tableau.com/views/ElectionAnalysisNigeria2023/NigeriaElectionDashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+![Party Viz](image1.jpg)
+![State Viz](image2.jpg)
+
+[Data Source for webscraping](https://www.stears.co/elections/2023/president/)
+
